@@ -1,0 +1,76 @@
+h1 {
+    text-align: center;
+   font-family: 'Amatic SC', cursive;
+   font-size: 130px;
+
+}
+
+
+p { 
+    text-align: center; 
+     font-family: 'Amatic SC', cursive;
+     font-size: 40px;
+}
+
+body {
+    background-color: #ff531a;
+    
+}
+
+input[type="text"]{
+    margin-left:450px;
+    width:200px;
+    color:black !important;
+}
+:placeholder{
+    color:black !important;
+}
+#banner{
+    height:150px;
+    padding-right: 13%;
+    color:white;
+}
+
+
+#banner img{
+    width:125px;
+    height:125px;
+    margin-left: 5%;
+    margin-top: 5%
+}
+#banner .col-lg-10 .col-md-10{
+    margin-left: -195px
+}
+#posts{
+    width:85%;
+    margin-left: 50px
+}
+.post{
+    height: auto;
+    background-color: white;
+    margin-bottom: 10px
+}
+.post .col-lg-1{
+    background-color:#D3D3D3;
+    height:auto;
+    text-align: center
+}
+.post .col-lg-11{
+    height:auto;
+    padding-bottom: 10px
+}
+.post .col-lg-11 img{
+    max-width: 60%;
+}
+#posts{
+    height:100px !important;
+}
+.post .col-lg-1 i{
+    width:100%;
+}
+.post .col-lg-1 b{
+    font-family:'Amatic SC', cursive;
+    font-size:20px;
+    font-weight: bolder;
+    width:100%;
+}
